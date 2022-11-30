@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesforceManagementLibrary", "SalesforceManagementLibrary\SalesforceManagementLibrary.csproj", "{906F6BC8-E2DA-40FD-AF39-5CE1950D4553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRunner", "ConsoleRunner\ConsoleRunner.csproj", "{EB2AD6F1-DBC3-46A3-8B3F-4DE9CC034F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906F6BC8-E2DA-40FD-AF39-5CE1950D4553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906F6BC8-E2DA-40FD-AF39-5CE1950D4553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906F6BC8-E2DA-40FD-AF39-5CE1950D4553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906F6BC8-E2DA-40FD-AF39-5CE1950D4553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB2AD6F1-DBC3-46A3-8B3F-4DE9CC034F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2AD6F1-DBC3-46A3-8B3F-4DE9CC034F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2AD6F1-DBC3-46A3-8B3F-4DE9CC034F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2AD6F1-DBC3-46A3-8B3F-4DE9CC034F10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
